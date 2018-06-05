@@ -1,2 +1,0 @@
-This file is present in the master 
-This file is present in the branch.
