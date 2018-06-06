@@ -1,6 +1,3 @@
 this is the branch file
-<<<<<<< HEAD
 I have made the changes to see whether this can be posted in branch
-=======
 this is to test the code is pushed to the branch.
->>>>>>> branch1
